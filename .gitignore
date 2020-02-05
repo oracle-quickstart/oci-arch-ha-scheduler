@@ -1,0 +1,25 @@
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Terraform-specific
+######################
+.terraform
+terraform.tfstate
+*.tfstate*
+terraform.tfvars
+*.log
+*.output*
+*.out
+
+# Test 
+sdf-oci-terraform-test/
+test-environment.sh
